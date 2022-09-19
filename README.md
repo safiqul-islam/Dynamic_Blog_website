@@ -1,5 +1,5 @@
 
-A dynamic blog website, where the administrator can add new blogs within various categories and subcategories, as well as add services and articles, remove them, and edit them as needed. Here I have attached the admin panel and the frontend look of the web site.
+A dynamic blog website, where the administrator can add new blogs within various categories and subcategories, as well as add services and articles, publish and unpublish the category, subcategory, blogs, articles, services and remove them, and edit them as needed. Here I have attached the admin panel and the frontend look of the web site.
 
 I have made this website using Laravel and for the database I used MySql.
 
